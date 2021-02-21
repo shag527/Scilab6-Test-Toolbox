@@ -5,3 +5,6 @@ This toolbox overall demonstrates
 2. How to add a function defined in Scilab in Scilab
 3. How to write help for the added functions
 4. How to create a toolbox out of the above functions.
+
+### Check Transpose
++ To compute the transpose of a nxm matrix, run the shell script (./run.sh) in Test folder (run.sh). But, first make it executable by running the command chmod +x run.sh in the terminal.
