@@ -22,7 +22,7 @@ This toolbox overall demonstrates
 + Go to test folder and make the shell script executable by running the command ```chmod +x run.sh``` in the terminal.
 + Execute ./run.sh.
 <p align="center">
-<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/script.png" width="570" height="300">
+<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/script.png" width="570" height="350">
   <br>
  </p>
  
@@ -35,29 +35,29 @@ This toolbox overall demonstrates
 #### 3. Building and Loading the Toolbox
 + Go to Scilab and run ```cd path_to_main_directory``` on the console.
 <p align="center">
-<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/path.png" width="620" height="410">
+<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/path.png" width="750" height="550">
   <br>
  </p>
  
 + Run ```exec builder.sce``` on the scilab console to build the toolbox.
 <p align="center">
-<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/builder.png" width="620" height="410">
+<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/builder.png" width="750" height="550">
   <br>
  </p>
  
 + Run ```exec loader.sce``` on the scilab console to load the toolbox.  
 <p align="center">
-<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/loader.png" width="620" height="410">
+<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/loader.png" width="750" height="550">
   <br>
  </p>
  
 + Type ```help``` in the scilab console and browse through the help content of the test toolbox. 
 <p align="center">
-<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/help1.png" width="620" height="410">
+<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/help1.png" width="750" height="450">
   <br>
  </p>
  <p align="center">
-<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/help2.png" width="620" height="410">
+<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/help2.png" width="750" height="450">
   <br>
  </p>
 
@@ -67,13 +67,13 @@ Run ```y=transpose(A)``` on the scilabe console, where A is the matrix whose tra
 E.g. A = [1,2,3;4,5,6] 
 
  <p align="center">
-<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/trans.png" width="620" height="410">
+<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/trans.png" width="750" height="500">
   <br>
  </p>
 
 #### 5. Unloading the Toolbox
-Run ```exec unload.sce``` on the scilab console.
+Run ```exec unload.sce``` on the scilab console to unload the toolbox.
  <p align="center">
-<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/unload.png" width="620" height="410">
+<img align="center" src="https://github.com/shag527/Scilab6-Test-Toolbox/blob/master/Images/unload.png" width="750" height="500">
   <br>
  </p>
