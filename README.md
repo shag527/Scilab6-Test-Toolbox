@@ -7,6 +7,8 @@ This toolbox overall demonstrates
 3. How to write help for the added functions
 4. How to create a toolbox out of the above functions.
 
+<B>The detailed documentation can be found [here](https://drive.google.com/file/d/1WCuWx-9Hq1HWsP7m_hAzhlrekQzrpu-c/view?usp=sharing).</B>
+
 ### Requirements
 + C/C++
 + Scilab 6.1.0
@@ -62,7 +64,7 @@ This toolbox overall demonstrates
  </p>
 
 #### 4. Checking the Transpose
-Run ```y=transpose(A)``` on the scilabe console, where A is the matrix whose transpose is to be calculated.
+Run ```y=transpose(A)``` on the scilab console, where A is the matrix whose transpose is to be calculated.
 
 E.g. A = [1,2,3;4,5,6] 
 
